@@ -7,6 +7,8 @@ The back-end repo can be found [here](https://github.com/shadeemerhi/simplifix-a
 
 The front-end has been deployed to Netlify and the live site can be found [here](https://mystifying-albattani-f243f1.netlify.app/). The back-end is being hosted by Heroku.
 
+Built by: Shadee Merhi, Calvin Zheng and Tom Adam.
+
 ## Final Product
 
 ### Home page
